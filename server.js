@@ -8,7 +8,7 @@ const app = express()
 // password - webprogramming
 // email - droidstations@gmail.com
 
-const apiKey = 'a9bb6112a70aaad6bbd7daebaca9b1de';
+const apiKey = '**********************************';
 
 app.use(express.static('public'));
 app.set('view engine', 'ejs');
